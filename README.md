@@ -2,6 +2,10 @@
 
 This repository include **starter code**, **Espresso AndroidTest** and **Travis setting**, which are used for automatically grading in **Android Application Development course in National Cheng Kung University (NCKU)** in 2019 Spring Semester.
 
+Materials:
+- **Lesson 1: Build your first app** in Codelabs for Android Developer Fundamentals (V2). 
+<https://developer.android.com/courses/fundamentals-training/toc-v2>
+
 Feel free to fork this repository if you are also working on this codelab and want to testing your answer.
 For more instructions, please follow the `homework rules` slides in this repository. 
 If you have further questions, please contact android@imslab.org
