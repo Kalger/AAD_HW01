@@ -7,7 +7,7 @@ Materials:
 <https://developer.android.com/courses/fundamentals-training/toc-v2>
 
 Feel free to fork this repository if you are also working on this codelab and want to testing your answer.
-For more instructions, please follow the `homework rules` slides in this repository. 
+For more instructions, please follow the [homework rules slides](https://github.com/ncku-csie/AAD_HW01/blob/master/Homework%20Rules.pdf) in this repository. 
 If you have further questions, please contact android@imslab.org
 
 These test cases are written by Intelligent Mobile Service laboratory and Cyber Physical System Laboratory in NCKU.
